@@ -14,8 +14,7 @@ Una aplicación moderna de gestión de tareas construida con React.
 - 🌙 Modo oscuro/claro
 - 📱 Diseño responsive
 
-## 🚀 Instalación
 
-```bash
-npm install
-npm start
+## 🚀 Demo en Vivo
+
+[🔗 Ver aplicación en Netlify](https://productivity-pro-j.netlify.app/)
